@@ -1,2 +1,3 @@
 Initial file 4 text in master branch
 
+Additional changes in v2.0
