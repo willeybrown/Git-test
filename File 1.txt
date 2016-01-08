@@ -1,1 +1,3 @@
 Initial file 1 text in master branch
+
+Changes added to File 1
